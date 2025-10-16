@@ -72,9 +72,14 @@ void yyerror(const char *msg) {
 ```
 
 
+
+
 # OUTPUT
 
 <img width="714" height="523" alt="image" src="https://github.com/user-attachments/assets/87b7938f-1f8d-4d39-ada5-4602de1c0a69" />
+
+
+
 
 
 # RESULT
